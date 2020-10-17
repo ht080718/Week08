@@ -1,0 +1,27 @@
+.container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    padding: 30px 50px;
+}
+
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+}
+
+.tz-gallery {
+    padding: 40px;
+}
+
+.tz-gallery .row > div {
+    padding: 2px;
+}
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
